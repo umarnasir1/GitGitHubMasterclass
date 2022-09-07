@@ -1,3 +1,6 @@
+/*
+  Author: Umar 
+*/
 #include<iostream>
 
 int main (){
